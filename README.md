@@ -1,6 +1,6 @@
--Instagram: www.instagram.com/rickthor.id 
+-Instagram: https://instagram.com/rickthor.id 
 
--Blog: https://rickthor7.bpogspot.com
+-Blog: https://rickthor7.blogspot.com
 
 <!---
 rickthor7/rickthor7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
