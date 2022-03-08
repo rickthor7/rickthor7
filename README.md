@@ -1,5 +1,7 @@
 -Instagram: https://instagram.com/rickthor.id 
 
+-Home: https://www.rickthor7.my.id
+
 -Blog: https://rickthor7.blogspot.com
 
 <!---
