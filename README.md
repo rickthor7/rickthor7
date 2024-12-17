@@ -12,7 +12,7 @@
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
   <li>💼 I'm a Front end developer at Crediometer.</li>
   <li>🧐 Portfolio Website, https://www.rickthor7.github.io</li>
-  <li>🧐 Blog Website, https://freecourse.my.id</li>
+  <li>🧐 Blog Website, https://bocilteknologi.my.id</li>
 </ul>
 
 #### A little more about me
