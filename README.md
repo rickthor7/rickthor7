@@ -31,7 +31,7 @@ const rickthor7 = {
 #### My GitHub Data :octocat:
 > 🏆 420+ Contributions in the Year 2021
  > 
-> 📜 400+ Commits on GitHub
+> 📜 200+ Commits on GitHub
  > 
 > 🔑 200+ Contribution in Private Repos
  > 
